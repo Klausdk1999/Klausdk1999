@@ -1,9 +1,10 @@
 ### Hello there 👋
 
 My name is **Klaus Dieter Kupper**. I'm a **Control and Automation engineering** student at the Federal University of Santa Catarina, also engaged in a **FullStack Development** Bootcamp at Driven Education.
-- 📫 How to reach me: klausdk1999@gmail.com <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 - 🌱 I’m currently learning web development on Driven, and at the university I'm learning Operating System Concepts and system integration via SQL and virtual machines.
-- ⚡ I have experience working as a **developer in microprocessors projects** (coding and assemblying), using Esp8266 and Arduino, also as a **junior entrepreneur at Integre Júnior, selling and developing websites and systems**. In both those experiences besides improving my conding skills I was able to improve a lot of my team work and communication skills, and got familiarized with many management techniques and production softwares, as **SCRUM, Trello, Rock, Slack, Ploomes, Canva and Wordpress**.
+- ⚡ I have experience working as a **developer in microprocessors projects** (coding and assemblying), using Esp8266 and Arduino, also as a **junior entrepreneur at Integre Júnior, selling and developing websites and systems**. In both those experiences besides improving my coding skills I was able to improve a lot of my team work and communication skills, also got familiarized with many management techniques and production softwares, as **SCRUM, Trello, Rock, Slack, Ploomes, Canva and Wordpress**.
+- 📫 How to reach me: klausdk1999@gmail.com 
 
 What I'm learning:
 
@@ -19,6 +20,8 @@ Technologies I'm very confident working with and have a lot of experience:
 
 <!--
 **Klausdk1999/Klausdk1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+//GMAIL
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 Here are some ideas to get you started:
 
