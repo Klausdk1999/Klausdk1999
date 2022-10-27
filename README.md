@@ -1,14 +1,11 @@
 ### Hello there 👋
 
-My name is **Klaus Dieter Kupper**. I'm a **Control and Automation engineering** student at the Federal University of Santa Catarina, also engaged in a **FullStack Development** Bootcamp at Driven Education.
+My name is **Klaus Dieter Kupper**. I'm a **FullStack Developer** learning more at Driven Education Bootcamp and a **Control and Automation engineering** student at the Federal University of Santa Catarina.
 
-- 🌱 I’m currently learning web development on Driven, and at the university I'm learning Operating System Concepts, system integration via SQL and virtual machines.
+- 🌱 I’m currently learning web Code Architecture on Driven, and at the university I'm learning Operating System Concepts, system integration via SQL and virtual machines.
 - ⚡ I have experience working as a **prototype developer** (coding and assemblying), in microprocessors projects using Esp8266 and Arduino, also as a **junior entrepreneur at Integre Júnior, selling and developing websites and systems**. In both those experiences besides improving my coding skills I was able to improve a lot of my team work and communication skills, also got familiarized with many management techniques and production softwares, as **SCRUM, Trello, Rock, Slack, Ploomes, Canva and Wordpress**.
 - 📫 How to reach me: klausdk1999@gmail.com 
-
-What I'm learning:
-
-
+- LinkedIn : /Klausdk1999
 
 Languages that I have some experience:
 
