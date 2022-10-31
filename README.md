@@ -45,7 +45,6 @@ ORM :
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klausdk1999" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Klausdk1999" />
-https://github-readme-stats.vercel.app/api?username={username}
 
 <!--
 **Klausdk1999/Klausdk1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
