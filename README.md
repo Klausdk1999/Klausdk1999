@@ -4,7 +4,7 @@ My name is **Klaus Dieter Kupper**. I'm a **FullStack Developer** learning more 
 
 - 🌱 I’m currently learning web code architecture on Driven, and at the university I'm learning Operating System Concepts, system integration via SQL and virtual machines.
 - ⚡ I have experience working as a system developer at Hasar Brasil, working with C#, integrating printers, RFID and others hardware with Web and C# systems, also as a **prototype developer** (coding and assemblying), in microprocessors projects using Esp8266 and Arduino, and as a **junior entrepreneur at Integre Júnior, selling and developing websites and systems**. In both those experiences besides improving my coding skills I was able to improve a lot of my team work and communication skills, also got familiarized with many management techniques and production softwares, as **SCRUM, Trello, Rock, Slack, Ploomes, Canva and Wordpress**.
-- 
+
 - 📫 How to reach me: klausdk1999@gmail.com 
 - LinkedIn : /Klausdk1999
 
