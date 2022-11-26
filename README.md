@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-### Please, don't leave without taking a look at my pinned projects on the bottom of the page!
+### Please, don't leave without taking a look at my pinned projects at the bottom of the page!
 
 My name is **Klaus Dieter Kupper**. I'm a **FullStack Developer** learning more at Driven Education Bootcamp and a **Control and Automation engineering** student at the Federal University of Santa Catarina.
 
