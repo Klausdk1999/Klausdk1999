@@ -4,7 +4,7 @@
 
 My name is **Klaus Dieter Kupper**. I'm a **FullStack Developer** learning more at Driven Education Bootcamp and a **Control and Automation engineering** student at the Federal University of Santa Catarina.
 
-- 🌱 I’m currently learning POO on Driven, and at the university I'm learning Operating System Concepts, system integration via SQL and virtual machines.
+- 🌱 I’m currently learning Object Oriented Programming at Driven Education, and at UFSC I'm learning Operating System Concepts, system integration via SQL and Docker.
 - ⚡ I have experience working as a system developer at Hasar Brasil, integrating printers, RFID and others hardware with Web and C# systems, also as a **IoT developer** (coding and assemblying), using Esp8266 and Arduino, and as a **junior entrepreneur at Integre Júnior, selling and developing websites and systems**.
 
 - 📫 How to reach me: klausdk1999@gmail.com 
