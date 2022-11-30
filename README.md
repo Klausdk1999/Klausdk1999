@@ -5,7 +5,7 @@
 ### Portfolio Portugues: https://portfolio-pt.vercel.app/
 
 
-My name is **Klaus Dieter Kupper**. I'm a **FullStack Developer** learning more at Driven Education Bootcamp and a **Control and Automation engineering** student at the Federal University of Santa Catarina.
+Meu nome é **Klaus Dieter Kupper**. Sou **Desenvolvedor Full-Stack** pela Driven Education e aluno de **Engenharia de Controle e Automação** da Universidade Federal de Santa Catarina.
 
 - 🌱 Atualmente estou complementando mais meu cnhecimento de Programação Orientada a Objetos na Driven Education, e na UFSC estou aprendendo Conceitos de Sistema Operacional, integração de sistemas via SQL e Docker.
 - ⚡ Tenho experiência trabalhando como desenvolvedor de sistemas na Hasar Brasil, fazendo integração de sistemas e integrando impressoras, RFID e outros hardwares com sistemas Web e C#, também como **desenvolvedor IoT** (codificação e montagem), utilizando Esp8266 e Arduino, e como empresário júnior na Integre Júnior, vendendo e desenvolvendo sites e sistemas.
