@@ -1,13 +1,16 @@
 ### Hello there 👋
 
-### Please, don't leave without taking a look at my portfolio where you can access and try my applications! https://portfolio-sigma-vert-43.vercel.app/
+### Portfolio English: https://portfolio-sigma-vert-43.vercel.app/
+### Please, don't leave without taking a look at my portfolio where you can access and try my applications!
+### Portfolio Portugues: https://portfolio-pt.vercel.app/
+
 
 My name is **Klaus Dieter Kupper**. I'm a **FullStack Developer** learning more at Driven Education Bootcamp and a **Control and Automation engineering** student at the Federal University of Santa Catarina.
 
-- 🌱 I’m currently learning Object Oriented Programming at Driven Education, and at UFSC I'm learning Operating System Concepts, system integration via SQL and Docker.
-- ⚡ I have experience working as a system developer at Hasar Brasil, integrating printers, RFID and others hardware with Web and C# systems, also as a **IoT developer** (coding and assemblying), using Esp8266 and Arduino, and as a **junior entrepreneur at Integre Júnior, selling and developing websites and systems**.
+- 🌱 Atualmente estou complementando mais meu cnhecimento de Programação Orientada a Objetos na Driven Education, e na UFSC estou aprendendo Conceitos de Sistema Operacional, integração de sistemas via SQL e Docker.
+- ⚡ Tenho experiência trabalhando como desenvolvedor de sistemas na Hasar Brasil, fazendo integração de sistemas e integrando impressoras, RFID e outros hardwares com sistemas Web e C#, também como **desenvolvedor IoT** (codificação e montagem), utilizando Esp8266 e Arduino, e como empresário júnior na Integre Júnior, vendendo e desenvolvendo sites e sistemas.
 
-- 📫 How to reach me: klausdk1999@gmail.com 
+- 📫 Contato: klausdk1999@gmail.com 
 - LinkedIn : [/Klausdk1999](https://www.linkedin.com/in/klausdk1999/)
 
 My knowledge:
