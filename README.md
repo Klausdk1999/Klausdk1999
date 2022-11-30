@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-## Portfolio English: https://portfolio-sigma-vert-43.vercel.app/
-## Please, don't leave without taking a look at my portfolio where you can access and try my applications!
-## Portfolio Portugues: https://portfolio-pt.vercel.app/
+#### Portfolio English: https://portfolio-sigma-vert-43.vercel.app/
+#### Please, don't leave without taking a look at my portfolio where you can access and try my applications!
+#### Portfolio Portugues: https://portfolio-pt.vercel.app/
 
 
 Meu nome é **Klaus Dieter Kupper**. Sou **Desenvolvedor Full-Stack** pela Driven Education e aluno de **Engenharia de Controle e Automação** da Universidade Federal de Santa Catarina.
