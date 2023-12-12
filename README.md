@@ -7,8 +7,8 @@
 
 Meu nome é **Klaus Dieter Kupper**. Sou **Desenvolvedor Full-Stack** e **Engenheiro de Controle e Automação** pela Universidade Federal de Santa Catarina, com especialização em **Sistemas Computacionais**.
 
-- 🌱 Atualmente estou complementando mais meu conhecimento de Inteligência Artificial na UFSC, me aprofundando em desenvolvimento de sistemas com NextJS, Typescript e DevOps.
-- ⚡ Tenho experiência trabalhando como desenvolvedor de sistemas web na Brasão Sistemas e na Hasar Brasil, fazendo integração de sistemas e integrando impressoras, RFID e outros hardwares com sistemas Web com React e NodeJs, e C#, também como **desenvolvedor IoT** (codificação e montagem), utilizando Esp8266 e Arduino, e como empresário júnior na Integre Júnior, vendendo e desenvolvendo sites e sistemas.
+- 🌱 Atualmente estou complementando mais meu conhecimento de Inteligência Artificial na UFSC, me aprofundando em desenvolvimento de sistemas com Go, Spring e DevOps.
+- ⚡ Tenho experiência trabalhando como desenvolvedor de sistemas web, DevOps, fazendo integração de sistemas e integrando impressoras, RFID e outros hardwares com sistemas Web com React e NodeJs, e C#, também como **desenvolvedor IoT** (codificação e montagem), utilizando Esp8266 e Arduino, e como empresário júnior na Integre Júnior, vendendo e desenvolvendo sites e sistemas.
 
 - 📫 Contato: klausdk1999@gmail.com 
 - LinkedIn : [/Klausdk1999](https://www.linkedin.com/in/klausdk1999/)
