@@ -5,10 +5,10 @@
 #### Portfolio Portugues: https://portfolio-pt.vercel.app/
 
 
-Meu nome é **Klaus Dieter Kupper**. Sou **Desenvolvedor Full-Stack** e **Engenheiro de Controle e Automação** pela Universidade Federal de Santa Catarina, com especialização em **Sistemas Computacionais**.
+Meu nome é **Klaus Dieter Kupper**. Sou **Engenheiro de Controle e Automação** pela Universidade Federal de Santa Catarina, com especialização em **Sistemas Computacionais** e trabalho como **Engenheiro de Software e Desenvolvedor Full-Stack** .
 
-- 🌱 Atualmente estou complementando mais meu conhecimento de Inteligência Artificial na UFSC, me aprofundando em desenvolvimento de sistemas com Go, Spring e DevOps.
-- ⚡ Tenho experiência trabalhando como desenvolvedor de sistemas web, DevOps, fazendo integração de sistemas e integrando impressoras, RFID e outros hardwares com sistemas Web com React e NodeJs, e C#, também como **desenvolvedor IoT** (codificação e montagem), utilizando Esp8266 e Arduino, e como empresário júnior na Integre Júnior, vendendo e desenvolvendo sites e sistemas.
+- 🌱 Atualmente estou  me aprofundando em desenvolvimento de sistemas com Go, Spring e DevOps.
+- ⚡ Tenho experiência trabalhando como desenvolvedor de sistemas web TypeScript, DevOps com AWS e containers Docker e Kubernetes, fazendo integração de sistemas e integrando impressoras, RFID e outros hardwares com sistemas Web com React e NodeJs, e C#, também como **desenvolvedor IoT** (codificação e montagem), utilizando Esp e Arduino.
 
 - 📫 Contato: klausdk1999@gmail.com 
 - LinkedIn : [/Klausdk1999](https://www.linkedin.com/in/klausdk1999/)
