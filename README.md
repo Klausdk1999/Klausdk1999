@@ -1,8 +1,13 @@
 ### Hello there 👋
 
-Hello there! I invite you to delve into my journey by exploring my portfolio (https://klausdkupper.vercel.app/ ) . Each project shown there is special in some way to me and was a important step l;earning something new.
+I invite you to explore my journey by visiting my portfolio: https://klausdkupper.vercel.app/
+Each project featured there is meaningful to me and represents a key step in learning something new.
 
-Beginning my IT education with a computer maintenance course, I gained hands-on experience in formatting, hardware troubleshooting, and software error resolution. This foundation fueled my passion for technology, leading me to become a Control and Automation Engineer. During graduation I learned a lot about software and wanted to get into web development, so I did, by learning at the Driven bootcamp. These educational milestones have all contributed to make me a dedicated professional, pursuing growth, ready to tackle challenges head-on.
+My path in technology began with a computer maintenance course, where I gained hands-on experience in fixing hardware, resolving software issues, and — even more importantly — helping people solve problems. This early foundation fueled my passion for technology and inspired me to pursue a degree in Control and Automation Engineering, where I explored systems, programming, and industrial automation in depth.
+
+Currently, I’m continuing my academic journey with a Master’s in Applied Computing at UNIVALI, focusing on IoT and cloud solutions — uniting the physical and digital worlds to build smart, connected systems.
+
+Along the way, I also embraced web development through the Driven bootcamp, expanding my skill set and reinforcing my drive to create useful, scalable applications.
 
 - 📫 Contact: klausdk1999@gmail.com 
 - LinkedIn : [/Klausdk1999](https://www.linkedin.com/in/klausdk1999/)
