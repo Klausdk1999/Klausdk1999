@@ -1,13 +1,13 @@
 ### Hello there 👋
 
-I invite you to explore my journey by visiting my portfolio: https://klausdkupper.vercel.app/
-Each project featured there is meaningful to me and represents a key step in learning something new.
+I'm currently pursuing a Master’s in Applied Computing at UNIVALI, focusing on Internet of Things (IoT) and cloud solutions. I’ve been working on projects that connect physical devices to the cloud to create intelligent, scalable, and integrated systems — applying technical knowledge to real-world challenges.
 
-My path in technology began with a computer maintenance course, where I gained hands-on experience in fixing hardware, resolving software issues, and — even more importantly — helping people solve problems. This early foundation fueled my passion for technology and inspired me to pursue a degree in Control and Automation Engineering, where I explored systems, programming, and industrial automation in depth.
+I invite you to visit my portfolio: https://klausdkupper.vercel.app/
+Each project there holds a special meaning and represents an important step in my continuous learning process.
 
-Currently, I’m continuing my academic journey with a Master’s in Applied Computing at UNIVALI, focusing on IoT and cloud solutions — uniting the physical and digital worlds to build smart, connected systems.
+My foundation comes from my degree in Control and Automation Engineering, where I gained deep experience in embedded systems, industrial automation, and software development. During my undergraduate studies, I developed a strong interest in web development, which led me to expand my skills through the Driven bootcamp.
 
-Along the way, I also embraced web development through the Driven bootcamp, expanding my skill set and reinforcing my drive to create useful, scalable applications.
+It all began with a computer maintenance course — where I learned how to fix hardware, resolve software issues, and, more importantly, help people solve their tech problems.
 
 - 📫 Contact: klausdk1999@gmail.com 
 - LinkedIn : [/Klausdk1999](https://www.linkedin.com/in/klausdk1999/)
