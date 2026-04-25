@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm currently pursuing a Master’s in Applied Computing at UNIVALI, focusing on Internet of Things (IoT) and cloud solutions. I’ve been working on projects that connect physical devices to the cloud to create intelligent, scalable, and integrated systems — applying technical knowledge to real-world challenges.
+Master in Applied Computing at UNIVALI, focusing on Internet of Things (IoT, LoRaWan, microcontroles and cloud solutions. I’ve been working on projects that connect physical devices to the cloud to create intelligent, scalable, and integrated systems.
 
 I invite you to visit my portfolio: https://klausdkupper.vercel.app/
 Each project there holds a special meaning and represents an important step in my continuous learning process.
