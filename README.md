@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm **Klaus Dieter Kupper**, a Full-Stack Software Engineer at **Plus10 GmbH** (Stuttgart, remote) and **Master in Applied Computing** (UNIVALI, 2026). I build features end-to-end — database, APIs and frontend — with React, TypeScript, Java Spring Boot, Node.js and .NET, and I connect physical devices to the cloud with IoT, LoRaWAN and microcontrollers.
+I'm **Klaus Dieter Kupper**, a Full-Stack Software Engineer with international experience and **Master in Applied Computing** (UNIVALI, 2026). I build features end-to-end — database, APIs and frontend — with React, TypeScript, Java Spring Boot, Node.js and .NET, and I connect physical devices to the cloud with IoT, LoRaWAN and microcontrollers.
 
 🌐 Portfolio: https://klauskupper.vercel.app
 
